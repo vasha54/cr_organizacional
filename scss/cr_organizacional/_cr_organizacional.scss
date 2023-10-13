@@ -1,0 +1,51 @@
+.bg-cr-organizacional {
+	background-color: #365779 ;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  color: rgba(255, 255, 255, 0.9) ;
+}
+
+.primary-navigation .navigation .nav-link {
+  height: 60px;
+  color: #ffffff ;
+  border-top: 3px solid transparent;
+}
+
+.navbar-nav .popover-region .popover-region-toggle .icon {
+  font-weight: inherit;
+  color: white;
+}
+
+.navbar.fixed-top .usermenu .dropdown .dropdown-toggle, .navbar.fixed-top .langmenu .dropdown .dropdown-toggle {
+	padding-top: 0;
+	padding-bottom: 0;
+	border-radius: 0;
+	display: flex;
+	align-items: center;
+	height: 100%;
+	color: white;
+}
+
+.input-group {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  width: 100%;
+  color: white;
+}
+
+.moremenu .nav-link.active:focus, .moremenu .nav-link.active:hover {
+	background-color: #E40434;
+	border-bottom-color: #083479;
+}
+
+.moremenu .nav-link:focus, .moremenu .nav-link:hover {
+	background-color: #E40434;
+	color: white;
+}
+
+.navbar.fixed-top .primary-navigation .navigation .nav-link:hover{
+	color: white;
+}
