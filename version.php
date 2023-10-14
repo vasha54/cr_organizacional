@@ -30,7 +30,7 @@ defined('MOODLE_INTERNAL') || die();
 $plugin->component = 'theme_cr_organizacional';
 
 // This is the version of the plugin.
-$plugin->version = 2023101219;
+$plugin->version = 2023101306;
 
 // This is the named version.
 $plugin->release = '4.2.1';
